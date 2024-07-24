@@ -1,7 +1,7 @@
 ```
 sudo apt install libtool pkg-config texinfo libusb-dev libusb-1.0-0-dev libftdi-dev autoconf automake make git libftdi* libhidapi-hidraw0 software-properties-common  apt-transport-https ca-certificates
 sudo ldconfig
-cd mkdir ~/
+cd ~/
 mkdir ~/openocd
 git clone --recursive https://github.com/whid-injector/openocd-linux openocd
 cd openocd
