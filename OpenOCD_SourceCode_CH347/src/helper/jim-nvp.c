@@ -23,6 +23,8 @@
 #include "jim-nvp.h"
 #include <string.h>
 
+#include <stdio.h>
+
 int jim_get_nvp(Jim_Interp *interp,
 	Jim_Obj *objptr, const struct jim_nvp *nvp_table, const struct jim_nvp **result)
 {
