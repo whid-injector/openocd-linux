@@ -16,4 +16,4 @@ cd /src
 cd ..
 make install
 ```
-Now you can remove the "temporary" folder and use OpenOCD located in /home/<HERE-YOUR-USERNAME>/openocd
+Now you can remove the "temporary" folder and use OpenOCD located in /home/HERE-YOUR-USERNAME/openocd
